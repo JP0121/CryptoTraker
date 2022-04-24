@@ -1,5 +1,5 @@
 # CrytpoMeterOne
-Crypto Meter One is an information crypto currency web app. You can use it to compare live prices, find current news, and learn about new crypto currencies.
+Crypto Meter One is an informational crypto currency web app. You can use it to compare live prices, find current news, and learn about new crypto currencies.
 
 Visit at Http://cryptometerone.tech (pending ssl certs)
 
